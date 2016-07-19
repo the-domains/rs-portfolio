@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[RS Portfolio]]></title>
         <description><![CDATA[RS Portfolio]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/rs-portfolio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jul 2016 04:13:01 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 19 Jul 2016 04:13:26 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/rs-portfolio/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Revolving Fund]]></title>
+            <description><![CDATA[<article><h1>The Revolving Fund</h1><p>This video was produced by the National Trust for Historic Preservation and the 1772 Foundation. Created by the Savannah College of Art and Design it is a piece of enhanced content for the Fall 2014 issue of Forum Journal "Get Real about Real Estate."</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6285ae4d9ff070215e11b6ac0d129182/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2F3Jo9PEY1h20%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=3Jo9PEY1h20</link>
+            <guid isPermaLink="false">b2077fb4-86ab-4e92-84d4-b1fdb29d895e</guid>
+            <pubDate>Tue, 19 Jul 2016 04:13:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[An Appalachian Tale - Thesis Version]]></title>
             <description><![CDATA[<article><h1>An Appalachian Tale - Thesis Version</h1><p>An Appalachian Tale was a one-man, thirteen day MFA thesis production filmed on location in the mountains of Pennsylvania - one man with the assistance of numerous individuals working for businesses, government agencies, and non-profit groups.</p></article>]]></description>
