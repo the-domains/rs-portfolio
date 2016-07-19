@@ -4,8 +4,15 @@
         <description><![CDATA[RS Portfolio]]></description>
         <link>https://thegrid.ai/rs-portfolio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jul 2016 20:36:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2016 20:38:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rs-portfolio/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[An Appalachian Tale - Thesis Version]]></title>
+            <description><![CDATA[<article><h1>An Appalachian Tale - Thesis Version</h1><p>Re-recording Mixer - Colin Lechner</p></article>]]></description>
+            <link>https://vimeo.com/89851577</link>
+            <guid isPermaLink="false">e77b511d-8649-4da2-bc03-4f4d101316e2</guid>
+            <pubDate>Tue, 19 Jul 2016 20:37:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Tea With Friends]]></title>
             <description><![CDATA[<article><h1>Tea With Friends</h1><p>Sound and Re-recording Mix - Colin Lechner</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://vimeo.com/75114112</link>
             <guid isPermaLink="false">a114dc1e-9028-4218-bd88-2917bedd1b02</guid>
             <pubDate>Tue, 19 Jul 2016 04:14:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bullying for a Brighter Tomorrow Ep. 4 of 5]]></title>
-            <description><![CDATA[<article><h1>Bullying for a Brighter Tomorrow Ep. 4 of 5</h1><p>Dr. Walter Bullard explains Bullying's strong ties to tradition.</p></article>]]></description>
-            <link>https://vimeo.com/75111045</link>
-            <guid isPermaLink="false">b18c9862-56ce-4cb6-9ac2-a16b05dda97d</guid>
-            <pubDate>Tue, 19 Jul 2016 04:14:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
