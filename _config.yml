@@ -14,5 +14,10 @@ layout_spectrum: 0.5615650156978518
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/62ce3aac-0438-4866-88e5-ce08643158f2.png
 name: RS Portfolio
+navigation:
+  - id: 'http://thegrid.ai/raconteursound/'
+    url: 'http://thegrid.ai/raconteursound/'
+    name: Home
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/a84bd1fd-dab5-447d-b799-e78036605856.png
