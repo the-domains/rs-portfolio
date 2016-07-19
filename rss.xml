@@ -4,8 +4,15 @@
         <description><![CDATA[RS Portfolio]]></description>
         <link>https://thegrid.ai/rs-portfolio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jul 2016 20:25:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2016 20:34:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rs-portfolio/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Revolving Fund]]></title>
+            <description><![CDATA[<article><h1>The Revolving Fund</h1><p>Re-recording Mixer & Dialogue Editor - Colin Lechner.   This video was produced by the National Trust for Historic Preservation and the 1772 Foundation. Created by the Savannah College of Art and Design.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6285ae4d9ff070215e11b6ac0d129182/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2F3Jo9PEY1h20%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=3Jo9PEY1h20</link>
+            <guid isPermaLink="false">b2077fb4-86ab-4e92-84d4-b1fdb29d895e</guid>
+            <pubDate>Tue, 19 Jul 2016 20:34:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Reservoir Rabbits]]></title>
             <description><![CDATA[<article><h1>Reservoir Rabbits</h1><p>Re-recording Mixer - Colin Lechner</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://vimeo.com/75111045</link>
             <guid isPermaLink="false">b18c9862-56ce-4cb6-9ac2-a16b05dda97d</guid>
             <pubDate>Tue, 19 Jul 2016 04:14:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bullying for a Brighter Tomorrow Ep.5 of 5]]></title>
-            <description><![CDATA[<article><h1>Bullying for a Brighter Tomorrow Ep.5 of 5</h1><p>PLEASE SEND MONEY- Dr. Walter Bullard (dictated but not read)</p></article>]]></description>
-            <link>https://vimeo.com/75112412</link>
-            <guid isPermaLink="false">ef3567b6-43ef-4ffb-a2bb-7795b8693f82</guid>
-            <pubDate>Tue, 19 Jul 2016 04:14:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
