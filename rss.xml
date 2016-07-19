@@ -4,8 +4,15 @@
         <description><![CDATA[RS Portfolio]]></description>
         <link>https://thegrid.ai/rs-portfolio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jul 2016 20:34:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2016 20:36:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rs-portfolio/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Tea With Friends]]></title>
+            <description><![CDATA[<article><h1>Tea With Friends</h1><p>Sound and Re-recording Mix - Colin Lechner</p></article>]]></description>
+            <link>https://vimeo.com/147151207</link>
+            <guid isPermaLink="false">424157ff-8af0-4a39-8deb-2a531f80d90b</guid>
+            <pubDate>Tue, 19 Jul 2016 20:36:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Revolving Fund]]></title>
             <description><![CDATA[<article><h1>The Revolving Fund</h1><p>Re-recording Mixer & Dialogue Editor - Colin Lechner.   This video was produced by the National Trust for Historic Preservation and the 1772 Foundation. Created by the Savannah College of Art and Design.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6285ae4d9ff070215e11b6ac0d129182/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2F3Jo9PEY1h20%2Fmaxresdefault.jpg"></article>]]></description>
@@ -33,13 +40,6 @@
             <link>https://vimeo.com/133247580</link>
             <guid isPermaLink="false">47d1af21-1a59-4854-b6b7-657d4a7d5a10</guid>
             <pubDate>Tue, 19 Jul 2016 04:15:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tea With Friends]]></title>
-            <description><![CDATA[<article><h1>Tea With Friends</h1><p>Tea With Friends explores the association between taste and memory as famously described by Marcel Proust. One evening, a taste of tea enveloped me in a memory from early childhood, evoking the recollection of my fondness for hosting teddy bear tea parties. Created for the Weekend Challenge: vimeo.com/groups/weekendchallenge</p></article>]]></description>
-            <link>https://vimeo.com/147151207</link>
-            <guid isPermaLink="false">424157ff-8af0-4a39-8deb-2a531f80d90b</guid>
-            <pubDate>Tue, 19 Jul 2016 04:15:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Moonchaser]]></title>
