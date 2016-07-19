@@ -1,0 +1,14 @@
+layout_spectrum: 0.5615650156978518
+typography_spectrum: 0.9830577925313264
+color:
+  brandStrength: 0.5006507565267384
+  lightness: 0.8253256822936237
+  saturation: 0.6101433041039854
+  rhythmicContrast: 0.014111099066212773
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: RS Portfolio
