@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-19T20:36:42.915Z'
+datePublished: '2016-07-19T20:39:32.619Z'
 sourcePath: _posts/2016-07-19-tea-with-friends.md
 isBasedOnUrl: 'https://vimeo.com/147151207'
 keywords: []
@@ -8,7 +8,7 @@ author:
   - name: Marinna Guzy
     url: 'http://vimeo.com/user33204504'
     avatar: {}
-dateModified: '2016-07-19T20:36:37.017Z'
+dateModified: '2016-07-19T20:39:26.239Z'
 title: Tea With Friends
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/147151207'
@@ -42,7 +42,7 @@ publisher:
   name: Vimeo
   favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
   domain: vimeo.com
-description: Sound and Re-recording Mix - Colin Lechner
+description: Sound and Re-recording Mixer - Colin Lechner
 starred: false
 inFeed: true
 hasPage: false
