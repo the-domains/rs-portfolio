@@ -4,15 +4,8 @@
         <description><![CDATA[RS Portfolio]]></description>
         <link>https://thegrid.ai/rs-portfolio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Jul 2016 03:52:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2016 03:52:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rs-portfolio/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Tea With Friends]]></title>
-            <description><![CDATA[<article><h1>Tea With Friends</h1><p>Sound and Re-recording Mixer - Colin Lechner</p></article>]]></description>
-            <link>https://vimeo.com/147151207</link>
-            <guid isPermaLink="false">424157ff-8af0-4a39-8deb-2a531f80d90b</guid>
-            <pubDate>Wed, 20 Jul 2016 03:52:47 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Moonchaser]]></title>
             <description><![CDATA[<article><h1>Moonchaser</h1><p>Re-recording Mixer - Colin Lechner.   This film is for portfolio use only.</p></article>]]></description>
@@ -75,6 +68,13 @@
             <link>https://www.youtube.com/watch?v=ci_Jl1UD5fs</link>
             <guid isPermaLink="false">cf532490-8040-402f-b40f-453558c70fc1</guid>
             <pubDate>Wed, 20 Jul 2016 03:51:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Revolving Fund]]></title>
+            <description><![CDATA[<article><h1>The Revolving Fund</h1><p>Re-recording Mixer & Dialogue Editor - Colin Lechner.   This video was produced by the National Trust for Historic Preservation and the 1772 Foundation. Created by the Savannah College of Art and Design.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6285ae4d9ff070215e11b6ac0d129182/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2F3Jo9PEY1h20%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=3Jo9PEY1h20</link>
+            <guid isPermaLink="false">b2077fb4-86ab-4e92-84d4-b1fdb29d895e</guid>
+            <pubDate>Wed, 20 Jul 2016 03:50:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
