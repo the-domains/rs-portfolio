@@ -4,8 +4,15 @@
         <description><![CDATA[RS Portfolio]]></description>
         <link>https://thegrid.ai/rs-portfolio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Jul 2016 03:45:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2016 03:44:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rs-portfolio/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bullying for a Brighter Tomorrow Ep.1of 5]]></title>
+            <description><![CDATA[<article><h1>Bullying for a Brighter Tomorrow Ep.1of 5</h1><p>Web Series. Supervising sound editor, re-recording mixer, production mixer, writer, and co-director.</p></article>]]></description>
+            <link>https://vimeo.com/75106588</link>
+            <guid isPermaLink="false">06d9aed0-2bd7-48dd-ac52-fb5aaf5ab270</guid>
+            <pubDate>Tue, 19 Jul 2016 21:09:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[King Simon]]></title>
             <description><![CDATA[<article><h1>King Simon</h1><p>Dialogue Editor & Additional Re-recording Mixer.   This film is for portfolio use only. Nominated for Best Sound at Savannah College of Art and Design's SCADemy awards.</p></article>]]></description>
@@ -35,11 +42,32 @@
             <pubDate>Tue, 19 Jul 2016 20:37:59 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The Revolving Fund]]></title>
+            <description><![CDATA[<article><h1>The Revolving Fund</h1><p>Re-recording Mixer & Dialogue Editor - Colin Lechner.   This video was produced by the National Trust for Historic Preservation and the 1772 Foundation. Created by the Savannah College of Art and Design.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6285ae4d9ff070215e11b6ac0d129182/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2F3Jo9PEY1h20%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=3Jo9PEY1h20</link>
+            <guid isPermaLink="false">b2077fb4-86ab-4e92-84d4-b1fdb29d895e</guid>
+            <pubDate>Tue, 19 Jul 2016 20:34:31 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Lechner Reel]]></title>
             <description><![CDATA[<article><h1>Lechner Reel</h1><p>This video is a showcase of Colin Lechner's work as a re-recording mixer and sound designer. raconteursound.com</p></article>]]></description>
             <link>https://vimeo.com/147775521</link>
             <guid isPermaLink="false">149f5dfa-eed7-4dcf-919c-2bcdd563eaad</guid>
             <pubDate>Tue, 19 Jul 2016 04:43:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Frog Legs]]></title>
+            <description><![CDATA[<article><h1>Frog Legs</h1><p>This video is for portfolio use only. It features the Foley work of Colin Lechner and Ethan Holland. This version of Frog Legs was remixed by Colin Lechner to highlight the Foley effects.</p></article>]]></description>
+            <link>https://vimeo.com/133247580</link>
+            <guid isPermaLink="false">47d1af21-1a59-4854-b6b7-657d4a7d5a10</guid>
+            <pubDate>Tue, 19 Jul 2016 04:15:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bullying for a Brighter Tomorrow Ep.2 of 5]]></title>
+            <description><![CDATA[<article><h1>Bullying for a Brighter Tomorrow Ep.2 of 5</h1><p>Dr. Walter Bullard provides a historical example of bullying's many advantages.</p></article>]]></description>
+            <link>https://vimeo.com/75108796</link>
+            <guid isPermaLink="false">690c5985-dbb7-4e4c-95fd-f00d5b09c2cf</guid>
+            <pubDate>Tue, 19 Jul 2016 04:14:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
