@@ -4,8 +4,29 @@
         <description><![CDATA[RS Portfolio]]></description>
         <link>https://thegrid.ai/rs-portfolio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Jul 2016 03:52:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2016 03:52:51 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rs-portfolio/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Frog Legs]]></title>
+            <description><![CDATA[<article><h1>Frog Legs</h1><p>This video is for portfolio use only. It features the Foley work of Colin Lechner and Ethan Holland. This version of Frog Legs was remixed by Colin Lechner to highlight the Foley effects.</p></article>]]></description>
+            <link>https://vimeo.com/133247580</link>
+            <guid isPermaLink="false">47d1af21-1a59-4854-b6b7-657d4a7d5a10</guid>
+            <pubDate>Wed, 20 Jul 2016 03:52:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tea With Friends]]></title>
+            <description><![CDATA[<article><h1>Tea With Friends</h1><p>Sound and Re-recording Mixer - Colin Lechner</p></article>]]></description>
+            <link>https://vimeo.com/147151207</link>
+            <guid isPermaLink="false">424157ff-8af0-4a39-8deb-2a531f80d90b</guid>
+            <pubDate>Wed, 20 Jul 2016 03:52:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Moonchaser]]></title>
+            <description><![CDATA[<article><h1>Moonchaser</h1><p>Re-recording Mixer - Colin Lechner.   This film is for portfolio use only.</p></article>]]></description>
+            <link>https://vimeo.com/126517429</link>
+            <guid isPermaLink="false">0a064f4c-329b-44ce-aeac-532f59f2761a</guid>
+            <pubDate>Wed, 20 Jul 2016 03:52:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bullying for a Brighter Tomorrow Ep.1of 5]]></title>
             <description><![CDATA[<article><h1>Bullying for a Brighter Tomorrow Ep.1of 5</h1><p>Web Series. Supervising sound editor, re-recording mixer, production mixer, writer, and co-director.</p></article>]]></description>
@@ -54,27 +75,6 @@
             <link>https://vimeo.com/126202421</link>
             <guid isPermaLink="false">a2e99b3d-f549-4529-8876-1fbda6150820</guid>
             <pubDate>Wed, 20 Jul 2016 03:51:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Amazing Adventures of Sergei - The salty seadog]]></title>
-            <description><![CDATA[<article><h1>Amazing Adventures of Sergei - The salty seadog</h1><p>What the title says.. and yes he is amazing Find out more at http://issuu.com/oceanexchange/docs/project_sense_80514 The Ocean Exchange is the intersection where organizations from around the world advance and promote their cutting edge solutions and innovations in materials, devices, processes, and systems. We have created the knowledge based catalyst for organizations to achieve Corporate Social Responsibility Goals.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cedf3a2014c6707640bccc094af1dd9a/croprotate.jpg?cropheight=785&cropwidth=1920&degrees=0&input=https%3A%2F%2Fimg.youtube.com%2Fvi%2Fci_Jl1UD5fs%2Fmaxresdefault.jpg&x=0&y=144"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=ci_Jl1UD5fs</link>
-            <guid isPermaLink="false">cf532490-8040-402f-b40f-453558c70fc1</guid>
-            <pubDate>Wed, 20 Jul 2016 03:51:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Revolving Fund]]></title>
-            <description><![CDATA[<article><h1>The Revolving Fund</h1><p>Re-recording Mixer & Dialogue Editor - Colin Lechner.   This video was produced by the National Trust for Historic Preservation and the 1772 Foundation. Created by the Savannah College of Art and Design.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6285ae4d9ff070215e11b6ac0d129182/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2F3Jo9PEY1h20%2Fmaxresdefault.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=3Jo9PEY1h20</link>
-            <guid isPermaLink="false">b2077fb4-86ab-4e92-84d4-b1fdb29d895e</guid>
-            <pubDate>Wed, 20 Jul 2016 03:50:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[An Appalachian Tale - Thesis Version]]></title>
-            <description><![CDATA[<article><h1>An Appalachian Tale - Thesis Version</h1><p>Re-recording Mixer - Colin Lechner</p></article>]]></description>
-            <link>https://vimeo.com/89851577</link>
-            <guid isPermaLink="false">e77b511d-8649-4da2-bc03-4f4d101316e2</guid>
-            <pubDate>Tue, 19 Jul 2016 20:37:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
