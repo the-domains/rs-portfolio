@@ -18,5 +18,8 @@ navigation:
   - name: Home
     url: 'http://raconteursound.com'
     type: external
+  - name: Contact Us
+    url: 'http://http://raconteursound.com/contact-us/'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/a84bd1fd-dab5-447d-b799-e78036605856.png
