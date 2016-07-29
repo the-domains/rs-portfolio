@@ -14,6 +14,9 @@ layout_spectrum: 0.32299734000116587
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/62ce3aac-0438-4866-88e5-ce08643158f2.png
 name: RS Portfolio
-navigation: []
+navigation:
+  - name: Home
+    url: raconteursound.com
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/a84bd1fd-dab5-447d-b799-e78036605856.png
