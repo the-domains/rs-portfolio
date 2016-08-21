@@ -1,4 +1,3 @@
-layout_spectrum: 0.8932665928732604
 typography_spectrum: 0.789083314826712
 color:
   brandStrength: 0.3177373888902366
@@ -11,13 +10,11 @@ color:
     - '#91AA9D'
     - '#3E606F'
     - '#193441'
+layout_spectrum: 0.8932665928732604
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/62ce3aac-0438-4866-88e5-ce08643158f2.png
 name: RS Portfolio
 navigation:
-  - name: Home
-    url: 'http://raconteursound.com'
-    type: external
   - name: Studio
     url: 'http://raconteursound.com/studio/'
     type: external
