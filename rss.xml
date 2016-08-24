@@ -4,7 +4,7 @@
         <description><![CDATA[Raconteur Sound]]></description>
         <link>https://thegrid.ai/rs-portfolio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Aug 2016 23:00:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2016 23:01:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rs-portfolio/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Lechner Reel]]></title>
@@ -12,6 +12,13 @@
             <link>https://vimeo.com/147775521</link>
             <guid isPermaLink="false">149f5dfa-eed7-4dcf-919c-2bcdd563eaad</guid>
             <pubDate>Wed, 24 Aug 2016 23:00:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[An Appalachian Tale - Thesis Version]]></title>
+            <description><![CDATA[<article><h1>An Appalachian Tale - Thesis Version</h1><p>Re-Recording Mixer - Colin Lechner</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ea81b1e38d3f399f3dacc0b155d8c05e/noop.jpg?input=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F489105055_1280x720.jpg"></article>]]></description>
+            <link>https://vimeo.com/89851577</link>
+            <guid isPermaLink="false">e77b511d-8649-4da2-bc03-4f4d101316e2</guid>
+            <pubDate>Wed, 24 Aug 2016 23:01:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Twas the Night]]></title>
@@ -68,13 +75,6 @@
             <link>https://vimeo.com/75111045</link>
             <guid isPermaLink="false">b18c9862-56ce-4cb6-9ac2-a16b05dda97d</guid>
             <pubDate>Wed, 20 Jul 2016 03:52:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bullying for a Brighter Tomorrow Ep.5 of 5]]></title>
-            <description><![CDATA[<article><h1>Bullying for a Brighter Tomorrow Ep.5 of 5</h1><p>PLEASE SEND MONEY- Dr. Walter Bullard (dictated but not read)</p></article>]]></description>
-            <link>https://vimeo.com/75112412</link>
-            <guid isPermaLink="false">ef3567b6-43ef-4ffb-a2bb-7795b8693f82</guid>
-            <pubDate>Wed, 20 Jul 2016 03:52:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
