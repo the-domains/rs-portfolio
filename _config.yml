@@ -1,4 +1,3 @@
-layout_spectrum: 0.16237131762318313
 typography_spectrum: 0.6712620775215328
 color:
   brandStrength: 0.3177373888902366
@@ -11,6 +10,7 @@ color:
     - '#91AA9D'
     - '#3E606F'
     - '#193441'
+layout_spectrum: 0.16237131762318313
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/62ce3aac-0438-4866-88e5-ce08643158f2.png
 name: RS Portfolio
@@ -27,4 +27,4 @@ navigation:
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/a84bd1fd-dab5-447d-b799-e78036605856.png
 title: Raconteur Sound
-description: Portfolio
+description: ''
