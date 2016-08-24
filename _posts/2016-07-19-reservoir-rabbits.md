@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-24T23:06:36.204Z'
+datePublished: '2016-08-24T23:06:42.161Z'
 sourcePath: _posts/2016-07-19-reservoir-rabbits.md
 isBasedOnUrl: 'https://vimeo.com/126202421'
 keywords: []
@@ -9,7 +9,7 @@ author:
     url: 'https://vimeo.com/carolinedirector'
     avatar: {}
 via: {}
-dateModified: '2016-08-24T23:06:20.266Z'
+dateModified: '2016-08-24T23:06:36.674Z'
 title: Reservoir Rabbits
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/126202421'
