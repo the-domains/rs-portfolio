@@ -15,9 +15,6 @@ logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/62ce3aac-0438-4866-88e5-ce08643158f2.png
 name: RS Portfolio
 navigation:
-  - name: Studio
-    url: 'http://raconteursound.com/studio'
-    type: external
   - name: Contact
     url: 'http://raconteursound.com/contact-us'
     type: external
