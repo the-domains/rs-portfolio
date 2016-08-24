@@ -4,7 +4,7 @@
         <description><![CDATA[Raconteur Sound]]></description>
         <link>https://thegrid.ai/rs-portfolio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Aug 2016 23:06:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2016 23:07:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rs-portfolio/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Lechner Reel]]></title>
@@ -12,6 +12,13 @@
             <link>https://vimeo.com/147775521</link>
             <guid isPermaLink="false">149f5dfa-eed7-4dcf-919c-2bcdd563eaad</guid>
             <pubDate>Wed, 24 Aug 2016 23:00:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[King Simon]]></title>
+            <description><![CDATA[<article><h1>King Simon</h1><p>Dialogue Editor & Additional Re-recording Mixer. This film is for portfolio use only. Nominated for Best Sound at Savannah College of Art and Design's SCADemy awards.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/03180a7572715a13b5848f08ea78bd55/noop.jpg?input=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F492381531_1280x720.jpg"></article>]]></description>
+            <link>https://vimeo.com/108634089</link>
+            <guid isPermaLink="false">55ce91df-ad09-423f-9dc0-dadc840b72a1</guid>
+            <pubDate>Wed, 24 Aug 2016 23:07:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Reservoir Rabbits]]></title>
@@ -68,13 +75,6 @@
             <link>https://vimeo.com/126517429</link>
             <guid isPermaLink="false">0a064f4c-329b-44ce-aeac-532f59f2761a</guid>
             <pubDate>Wed, 20 Jul 2016 03:52:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bullying for a Brighter Tomorrow Ep.1of 5]]></title>
-            <description><![CDATA[<article><h1>Bullying for a Brighter Tomorrow Ep.1of 5</h1><p>Web Series. Supervising sound editor, re-recording mixer, production mixer, writer, and co-director.</p></article>]]></description>
-            <link>https://vimeo.com/75106588</link>
-            <guid isPermaLink="false">06d9aed0-2bd7-48dd-ac52-fb5aaf5ab270</guid>
-            <pubDate>Wed, 20 Jul 2016 03:52:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
