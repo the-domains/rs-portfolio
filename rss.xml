@@ -4,7 +4,7 @@
         <description><![CDATA[Raconteur Sound]]></description>
         <link>https://thegrid.ai/rs-portfolio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Aug 2016 23:13:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2016 23:14:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rs-portfolio/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Lechner Reel]]></title>
@@ -12,6 +12,13 @@
             <link>https://vimeo.com/147775521</link>
             <guid isPermaLink="false">149f5dfa-eed7-4dcf-919c-2bcdd563eaad</guid>
             <pubDate>Wed, 24 Aug 2016 23:00:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bullying for a Brighter Tomorrow Ep.1of 5]]></title>
+            <description><![CDATA[<article><h1>Bullying for a Brighter Tomorrow Ep.1of 5</h1><p>Web Series. Supervising sound editor, re-recording mixer, production mixer, writer, and co-director.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/793c8f0fd5e9bfd134898d0ee7c7efb4/noop.jpg?input=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F449591566_1920x1080.jpg"></article>]]></description>
+            <link>https://vimeo.com/75106588</link>
+            <guid isPermaLink="false">06d9aed0-2bd7-48dd-ac52-fb5aaf5ab270</guid>
+            <pubDate>Wed, 24 Aug 2016 23:14:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bullying for a Brighter Tomorrow Ep.2 of 5]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=3Jo9PEY1h20</link>
             <guid isPermaLink="false">b2077fb4-86ab-4e92-84d4-b1fdb29d895e</guid>
             <pubDate>Wed, 24 Aug 2016 23:03:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[An Appalachian Tale - Thesis Version]]></title>
-            <description><![CDATA[<article><h1>An Appalachian Tale - Thesis Version</h1><p>Re-Recording Mixer - Colin Lechner</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ea81b1e38d3f399f3dacc0b155d8c05e/noop.jpg?input=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F489105055_1280x720.jpg"></article>]]></description>
-            <link>https://vimeo.com/89851577</link>
-            <guid isPermaLink="false">e77b511d-8649-4da2-bc03-4f4d101316e2</guid>
-            <pubDate>Wed, 24 Aug 2016 23:01:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
