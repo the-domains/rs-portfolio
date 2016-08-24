@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-24T23:05:30.237Z'
+datePublished: '2016-08-24T23:05:33.189Z'
 sourcePath: _posts/2016-07-20-amazing-adventures-of-sergei-the-salty-seadog.md
 isBasedOnUrl: 'https://www.youtube.com/watch?v=ci_Jl1UD5fs'
 keywords:
@@ -19,7 +19,7 @@ author:
     url: 'https://www.youtube.com/user/TheOceanExchange'
     avatar: {}
 via: {}
-dateModified: '2016-08-24T23:05:26.386Z'
+dateModified: '2016-08-24T23:05:32.852Z'
 title: Amazing Adventures of Sergei - The salty seadog
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=ci_Jl1UD5fs&feature=applinks'
