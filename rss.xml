@@ -4,7 +4,7 @@
         <description><![CDATA[Raconteur Sound]]></description>
         <link>https://thegrid.ai/rs-portfolio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Aug 2016 23:11:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2016 23:12:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rs-portfolio/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Lechner Reel]]></title>
@@ -12,6 +12,13 @@
             <link>https://vimeo.com/147775521</link>
             <guid isPermaLink="false">149f5dfa-eed7-4dcf-919c-2bcdd563eaad</guid>
             <pubDate>Wed, 24 Aug 2016 23:00:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bullying for a Brighter Tomorrow Ep.3 of 5]]></title>
+            <description><![CDATA[<article><h1>Bullying for a Brighter Tomorrow Ep.3 of 5</h1><p>Dr. Walter Bullard provides some dos and don'ts for home care.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/56afbb7502975c7b91a4dbc8c810661c/noop.jpg?input=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F449597858_1920x1080.jpg"></article>]]></description>
+            <link>https://vimeo.com/75114112</link>
+            <guid isPermaLink="false">a114dc1e-9028-4218-bd88-2917bedd1b02</guid>
+            <pubDate>Wed, 24 Aug 2016 23:12:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bullying for a Brighter Tomorrow Ep. 4 of 5]]></title>
@@ -68,13 +75,6 @@
             <link>https://vimeo.com/177161923</link>
             <guid isPermaLink="false">bb110701-15a6-4606-ba28-82f7c5e286ed</guid>
             <pubDate>Tue, 02 Aug 2016 00:08:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Frog Legs]]></title>
-            <description><![CDATA[<article><h1>Frog Legs</h1><p>This video is for portfolio use only. It features the Foley work of Colin Lechner and Ethan Holland. This version of Frog Legs was remixed by Colin Lechner to highlight the Foley effects.</p></article>]]></description>
-            <link>https://vimeo.com/133247580</link>
-            <guid isPermaLink="false">47d1af21-1a59-4854-b6b7-657d4a7d5a10</guid>
-            <pubDate>Wed, 20 Jul 2016 03:52:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
