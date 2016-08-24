@@ -1,16 +1,16 @@
 ---
+datePublished: '2016-08-24T23:11:43.651Z'
+sourcePath: _posts/2016-07-19-bullying-for-a-brighter-tomorrow-ep-4-of-5.md
+isBasedOnUrl: 'https://vimeo.com/75111045'
+keywords: []
+related: []
 author:
   - name: Raibar Chener
-    url: 'http://vimeo.com/chener'
+    url: 'https://vimeo.com/chener'
     avatar: {}
-related: []
-publisher:
-  url: 'https://vimeo.com/'
-  name: Vimeo
-  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-  domain: vimeo.com
-keywords: []
-description: Dr. Walter Bullard explains Bullying's strong ties to tradition.
+via: {}
+dateModified: '2016-08-24T23:11:39.288Z'
+title: Bullying for a Brighter Tomorrow Ep. 4 of 5
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/75111045'
     type: ios
@@ -38,17 +38,14 @@ app_links:
     type: googleplay
     name: Vimeo
     id: com.vimeo.android.videoapp
-isBasedOnUrl: 'https://vimeo.com/75111045'
-title: Bullying for a Brighter Tomorrow Ep. 4 of 5
-datePublished: '2016-07-20T03:52:20.885Z'
-dateModified: '2016-07-20T03:44:52.879Z'
-sourcePath: _posts/2016-07-19-bullying-for-a-brighter-tomorrow-ep-4-of-5.md
+publisher: {}
+description: Dr. Walter Bullard explains Bullying's strong ties to tradition.
 starred: false
 inFeed: true
 hasPage: false
 inNav: false
-_type: VideoObject
 _context: 'http://schema.org'
+_type: VideoObject
 
 ---
-<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F75111045&amp;url=https%3A%2F%2Fvimeo.com%2F75111045&amp;image=http%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F449593469_1280.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=vimeo" width="1000" height="563" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
+<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F75111045&amp;url=https%3A%2F%2Fvimeo.com%2F75111045&amp;image=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F449593469_1280.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=vimeo" width="1000" height="563" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
