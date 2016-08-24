@@ -4,7 +4,7 @@
         <description><![CDATA[Raconteur Sound]]></description>
         <link>https://thegrid.ai/rs-portfolio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Aug 2016 23:07:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2016 23:11:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rs-portfolio/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Lechner Reel]]></title>
@@ -12,6 +12,13 @@
             <link>https://vimeo.com/147775521</link>
             <guid isPermaLink="false">149f5dfa-eed7-4dcf-919c-2bcdd563eaad</guid>
             <pubDate>Wed, 24 Aug 2016 23:00:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bullying for a Brighter Tomorrow Ep.5 of 5]]></title>
+            <description><![CDATA[<article><h1>Bullying for a Brighter Tomorrow Ep.5 of 5</h1><p>PLEASE SEND MONEY- Dr. Walter Bullard (dictated but not read)</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e788b946059bc809cb4b63e979392785/noop.jpg?input=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F449595383_1280x720.jpg"></article>]]></description>
+            <link>https://vimeo.com/75112412</link>
+            <guid isPermaLink="false">ef3567b6-43ef-4ffb-a2bb-7795b8693f82</guid>
+            <pubDate>Wed, 24 Aug 2016 23:10:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[King Simon]]></title>
@@ -68,13 +75,6 @@
             <link>https://vimeo.com/147151207</link>
             <guid isPermaLink="false">424157ff-8af0-4a39-8deb-2a531f80d90b</guid>
             <pubDate>Wed, 20 Jul 2016 03:52:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Moonchaser]]></title>
-            <description><![CDATA[<article><h1>Moonchaser</h1><p>Re-recording Mixer - Colin Lechner.   This film is for portfolio use only.</p></article>]]></description>
-            <link>https://vimeo.com/126517429</link>
-            <guid isPermaLink="false">0a064f4c-329b-44ce-aeac-532f59f2761a</guid>
-            <pubDate>Wed, 20 Jul 2016 03:52:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
