@@ -4,7 +4,7 @@
         <description><![CDATA[Raconteur Sound]]></description>
         <link>https://thegrid.ai/rs-portfolio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Aug 2016 23:15:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2016 23:16:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rs-portfolio/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Lechner Reel]]></title>
@@ -12,6 +12,13 @@
             <link>https://vimeo.com/147775521</link>
             <guid isPermaLink="false">149f5dfa-eed7-4dcf-919c-2bcdd563eaad</guid>
             <pubDate>Wed, 24 Aug 2016 23:00:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tea With Friends]]></title>
+            <description><![CDATA[<article><h1>Tea With Friends</h1><p>Tea With Friends explores the association between taste and memory as famously described by Marcel Proust. One evening, a taste of tea enveloped me in a memory from early childhood, evoking the recollection of my fondness for hosting teddy bear tea parties. Created for the Weekend Challenge: vimeo.com/groups/weekendchallenge</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/40d6c04cf57b689c7ca93463111900b6/noop.jpg?input=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F545744659_1280x720.jpg"></article>]]></description>
+            <link>https://vimeo.com/147151207</link>
+            <guid isPermaLink="false">424157ff-8af0-4a39-8deb-2a531f80d90b</guid>
+            <pubDate>Wed, 24 Aug 2016 23:16:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Moonchaser]]></title>
@@ -68,13 +75,6 @@
             <link>https://vimeo.com/126202421</link>
             <guid isPermaLink="false">a2e99b3d-f549-4529-8876-1fbda6150820</guid>
             <pubDate>Wed, 24 Aug 2016 23:06:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Amazing Adventures of Sergei - The salty seadog]]></title>
-            <description><![CDATA[<article><h1>Amazing Adventures of Sergei - The salty seadog</h1><p>Sound Editing, Dialogue Recording, Music Composition, and Re-Recording Mixer - Colin Lechner</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cedf3a2014c6707640bccc094af1dd9a/croprotate.jpg?cropheight=785&cropwidth=1920&degrees=0&input=https%3A%2F%2Fimg.youtube.com%2Fvi%2Fci_Jl1UD5fs%2Fmaxresdefault.jpg&x=0&y=144"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=ci_Jl1UD5fs</link>
-            <guid isPermaLink="false">cf532490-8040-402f-b40f-453558c70fc1</guid>
-            <pubDate>Wed, 24 Aug 2016 23:05:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
