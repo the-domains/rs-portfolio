@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-20T03:50:52.243Z'
+datePublished: '2016-08-24T23:03:36.219Z'
 sourcePath: _posts/2016-07-19-the-revolving-fund.md
 isBasedOnUrl: 'https://www.youtube.com/watch?v=3Jo9PEY1h20'
 keywords: []
@@ -8,7 +8,7 @@ author:
   - name: National Trust for Historic Preservation
     url: 'https://www.youtube.com/user/preservationnation'
     avatar: {}
-dateModified: '2016-07-20T03:45:04.560Z'
+dateModified: '2016-08-24T23:03:22.097Z'
 title: The Revolving Fund
 app_links: []
 publisher:
@@ -17,9 +17,10 @@ publisher:
   favicon: 'https://www.youtube.com/favicon.ico'
   domain: www.youtube.com
 description: >-
-  Re-recording Mixer & Dialogue Editor - Colin Lechner.   This video was
-  produced by the National Trust for Historic Preservation and the 1772
-  Foundation. Created by the Savannah College of Art and Design.
+  Re-recording Mixer & Dialogue Editor - Colin Lechner.  Documentary.  This
+  video was produced by the National Trust for Historic Preservation and the
+  1772 Foundation. Created by the Savannah College of Art and Design.
+via: {}
 starred: false
 inFeed: true
 hasPage: false
