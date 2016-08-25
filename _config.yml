@@ -1,16 +1,16 @@
 layout_spectrum: 0.945781338494271
-typography_spectrum: 0.36544160242192447
+typography_spectrum: 0.07259566127322614
 color:
-  brandStrength: 0.3177373888902366
-  lightness: 0.9568637057673186
-  saturation: 0.33457798324525356
-  rhythmicContrast: 0.455937129445374
+  brandStrength: 0.7795779788866639
+  lightness: 0.6947167895268649
+  saturation: 0.6942089113872498
+  rhythmicContrast: 0.5920353166293353
   brandColors:
-    - '#FCFFF5'
-    - '#D1DBBD'
-    - '#91AA9D'
-    - '#3E606F'
-    - '#193441'
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/62ce3aac-0438-4866-88e5-ce08643158f2.png
 name: RS Portfolio
